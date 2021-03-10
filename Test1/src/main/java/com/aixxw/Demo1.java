@@ -5,5 +5,6 @@ public class Demo1 {
         Person person = new Person().setAge(12).setName("张三");
         System.out.println(person);
         System.out.println("ddd");
+        System.out.println("ddd");
     }
 }
